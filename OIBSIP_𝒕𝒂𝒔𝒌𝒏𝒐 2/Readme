@@ -1,0 +1,21 @@
+# Unemployment Analysis with Python
+
+This project explores unemployment data using Python libraries for data manipulation and visualization. The analysis includes various techniques to uncover insights and trends related to unemployment rates.
+
+## Libraries Used
+
+- **NumPy**: For numerical operations
+- **Pandas**: For data manipulation and analysis
+- **Matplotlib**: For static visualizations
+- **Seaborn**: For statistical data visualization
+- **Plotly Express**: For interactive plots
+
+## Techniques Employed
+
+- **Heatmaps**: To visualize correlations in the data
+- **Correlational Analysis**: To identify relationships between variables
+- **Data Visualization Techniques**:
+  - Donut Chart
+  - Bubble Chart
+  - Bar Chart
+  - Grouped Bar Chart
