@@ -1,0 +1,33 @@
+SALES PREDICTION USING PYTHON :
+
+This project implements a sales prediction model using linear regression in Python. The model predicts sales based on various features derived from exploratory data analysis (EDA). 
+The analysis includes visualizations such as scatter plots and heatmaps to understand relationships and correlations in the data.
+
+
+
+Exploratory Data Analysi (EDA) :
+
+EDA is performed to understand the underlying patterns and relationships in the dataset. Key visualizations include:
+Scatter Plot:  Used to visualize the relationship between independent and dependent variables.
+Heatmap:  Displays the correlation matrix to identify potential multicollinearity and relationships between features.
+
+
+Model Training and Evaluation :
+The model is trained using the following steps:
+
+Data Preparation: Loading the dataset and performing necessary preprocessing (handling missing values, encoding categorical variables, etc.).
+
+Splitting the Data: The dataset is split into training and testing sets to evaluate model performance.
+
+Model Training: A linear regression model is trained on the training data.
+
+Model Evaluation: The model is evaluated using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared to assess its predictive accuracy.
+
+Libraries Used :
+This project utilizes the following libraries:
+
+Pandas: For data manipulation and analysis.
+NumPy: For numerical computations.
+Scikit-learn: For implementing the linear regression model and evaluation metrics.
+Matplotlib: For data visualization.
+Seaborn: For enhanced visualizations, especially heatmaps.
